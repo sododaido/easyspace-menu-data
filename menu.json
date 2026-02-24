@@ -201,10 +201,10 @@
     "available": true,
     "id": 17,
     "name": {
-      "th": "เลย์มันฝรั่ง 13 g.",
-      "en": "Lay's Original 13 g."
+      "th": "เลย์มันฝรั่ง 48 g.",
+      "en": "Lay's Original 48 g."
     },
-    "price": 10,
+    "price": 20,
     "category": "snack",
     "image": "https://raw.githubusercontent.com/sododaido/my-images-2/refs/heads/main/8850718701063_2-20240610154900-.png"
   },

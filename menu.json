@@ -8,7 +8,7 @@
     "price": 100,
     "category": "drink",
     "image": "https://raw.githubusercontent.com/sododaido/my-images-2/refs/heads/main/1705051468-8WXIp-Photoroom.png",
-    "available": false
+    "available": true
   },
   {
     "id": 6,
